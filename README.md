@@ -1,1 +1,1 @@
-# Text Renderer C++
+# Text Renderer Demo
